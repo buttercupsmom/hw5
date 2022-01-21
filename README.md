@@ -17,7 +17,7 @@
 
 # Screenshot of Planner
 
-![Screenshot of Planner](./assets/images/_Users_rachelyarkony_code_hw5_index.html.png);
+![Screenshot of Planner](./assets/images/screenshotofplanner.png);
 
 # Author
 
