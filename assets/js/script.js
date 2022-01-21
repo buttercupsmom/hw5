@@ -7,6 +7,7 @@ function saveTask() {
 }
 
 // color change based on hour of the day
+// worked together in office hours on homework
 function timeChangeColors() {
   const now = moment().hours();
   $(".js-row").each(function () {

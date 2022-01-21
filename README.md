@@ -25,5 +25,5 @@
 
 ## Link to Repository and Page
 
-- Here is the repo: []
-- Here is the page: []
+- Here is the repo: [https://github.com/buttercupsmom/hw5]
+- Here is the page: [https://buttercupsmom.github.io/hw5/]
