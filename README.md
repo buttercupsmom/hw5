@@ -11,9 +11,9 @@
 - Next click the save button, or the calendar icon.
 - Daily tasked will be saved in Local Storage.
 
-  -Present tasks will be highlighted in red.
-  -Past tasks will be highlighted in grey.
-  -Future tasks will be highlighted in green.
+- Present tasks will be highlighted in red.
+- Past tasks will be highlighted in grey.
+- Future tasks will be highlighted in green.
 
 # Screenshot of Planner
 
